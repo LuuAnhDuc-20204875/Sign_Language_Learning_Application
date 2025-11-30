@@ -1,0 +1,12 @@
+opencv-python
+mediapipe==0.10.10
+numpy
+Pillow
+streamlit
+google-generativeai
+autopy
+tensorflow
+protobuf==3.20.3
+pyqt5
+openai
+dotenv

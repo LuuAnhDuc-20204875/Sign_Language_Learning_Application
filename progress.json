@@ -1,0 +1,57 @@
+{
+  "letters": {
+    "H": {
+      "total": 109,
+      "correct": 5
+    },
+    "A": {
+      "total": 9,
+      "correct": 5
+    },
+    "B": {
+      "total": 10,
+      "correct": 5
+    },
+    "C": {
+      "total": 7,
+      "correct": 5
+    },
+    "D": {
+      "total": 13,
+      "correct": 5
+    },
+    "E": {
+      "total": 9,
+      "correct": 5
+    },
+    "F": {
+      "total": 13,
+      "correct": 5
+    },
+    "G": {
+      "total": 12,
+      "correct": 5
+    },
+    "I": {
+      "total": 5,
+      "correct": 5
+    },
+    "J": {
+      "total": 23,
+      "correct": 0
+    },
+    "U": {
+      "total": 15,
+      "correct": 5
+    },
+    "N": {
+      "total": 24,
+      "correct": 5
+    },
+    "W": {
+      "total": 7,
+      "correct": 5
+    }
+  },
+  "words": {}
+}
