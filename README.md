@@ -1,7 +1,7 @@
 # Sign_Language_Learning_Application
 
 Hand Tracking and Gesture Recognition for an **Interactive ASL Learning Application**.  
-This project combines **real-time hand tracking**, **deep learning (MobileNetV2)** and a **PyQt5 desktop UI** to help users practice and learn the American Sign Language alphabet in a fun and gamified way.
+This project combines **real-time hand tracking**, **deep learning (MobileNetV2)** and a **PyQt5 desktop UI** to help users practice and learn the American Sign Language (ASL) alphabet in a fun and gamified way.
 
 ---
 
@@ -18,8 +18,8 @@ This project combines **real-time hand tracking**, **deep learning (MobileNetV2)
 
 - 🎯 **Quiz Mode**
   - Randomly chooses target letters.
-  - User signs the requested letter to gain score.
-  - Great for self-testing and evaluation.
+  - The user signs the requested letter to gain score.
+  - Good for self-testing and quick evaluation.
 
 - 🐍 **Snake Game (Hand-Controlled)**
   - Classic snake game where the **index finger** position controls the snake.
@@ -27,13 +27,13 @@ This project combines **real-time hand tracking**, **deep learning (MobileNetV2)
 
 - 🔤 **Spelling Mode**
   - Practice spelling common words such as `HELLO`, `YES`, `NO`, `LOVE`, `NAME`.
-  - User signs each letter in sequence; the app tracks progress and word accuracy.
+  - The app walks through each letter of the word and tracks progress and word accuracy.
 
 - 👨‍🏫 **Teacher Mode**
   - Extra overlays for demonstration and debugging:
     - Live **FPS**.
     - **Confidence bar** for the model prediction.
-  - Perfect for presentations or explaining how the system works.
+  - Useful for presentations or explaining how the system works.
 
 - 📊 **Progress Tracking**
   - Saves statistics in `progress.json`:
