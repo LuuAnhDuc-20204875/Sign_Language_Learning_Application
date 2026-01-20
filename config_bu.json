@@ -1,0 +1,29 @@
+{
+  "app_title": "ASL Learning Suite",
+  "model_path": "models/asl_model_MobileNetV2_finetuned_compat.h5",
+  "reference_dir": "D:\\Year 6\\Graduation_Project\\Hand_Tracking\\PRODUCT\\EXAMPLE_IMG",
+  "food_image": "D:\\Year 6\\Graduation_Project\\Hand_Tracking\\PRODUCT\\images\\Donut.png",
+  "camera_index": 0,
+  "frame_width": 1280,
+  "frame_height": 720,
+  "img_size": [
+    224,
+    224
+  ],
+  "pred_interval": 0.3,
+  "conf_thresh": 0.7,
+  "streak_required": 5,
+  "offset_scale": 1.2,
+  "spelling_words": [
+    "HELLO",
+    "YES",
+    "NO",
+    "LOVE",
+    "NAME"
+  ],
+  "base_font_pt": 11,
+  "target_font_pt": 56,
+  "suggestion_enabled": true,
+  "suggestion_snooze_minutes": 10,
+  "multiplechoice_dir": "MCQs"
+}

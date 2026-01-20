@@ -1,0 +1,109 @@
+{
+  "letters": {
+    "A": {
+      "total": 40,
+      "correct": 11
+    },
+    "B": {
+      "total": 16,
+      "correct": 8
+    },
+    "C": {
+      "total": 17,
+      "correct": 8
+    },
+    "D": {
+      "total": 27,
+      "correct": 8
+    },
+    "E": {
+      "total": 38,
+      "correct": 11
+    },
+    "F": {
+      "total": 17,
+      "correct": 8
+    },
+    "G": {
+      "total": 12,
+      "correct": 6
+    },
+    "H": {
+      "total": 16,
+      "correct": 7
+    },
+    "I": {
+      "total": 76,
+      "correct": 6
+    },
+    "J": {
+      "total": 16,
+      "correct": 7
+    },
+    "K": {
+      "total": 13,
+      "correct": 6
+    },
+    "L": {
+      "total": 12,
+      "correct": 6
+    },
+    "M": {
+      "total": 17,
+      "correct": 7
+    },
+    "N": {
+      "total": 102,
+      "correct": 9
+    },
+    "O": {
+      "total": 18,
+      "correct": 4
+    },
+    "P": {
+      "total": 19,
+      "correct": 6
+    },
+    "Q": {
+      "total": 8,
+      "correct": 4
+    },
+    "R": {
+      "total": 16,
+      "correct": 4
+    },
+    "S": {
+      "total": 16,
+      "correct": 6
+    },
+    "T": {
+      "total": 55,
+      "correct": 4
+    },
+    "U": {
+      "total": 20,
+      "correct": 4
+    },
+    "V": {
+      "total": 20,
+      "correct": 6
+    },
+    "W": {
+      "total": 9,
+      "correct": 4
+    },
+    "X": {
+      "total": 17,
+      "correct": 4
+    },
+    "Y": {
+      "total": 9,
+      "correct": 4
+    },
+    "Z": {
+      "total": 122,
+      "correct": 11
+    }
+  },
+  "words": {}
+}

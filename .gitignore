@@ -1,0 +1,109 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Type check / lint caches
+.mypy_cache/
+.pytype/
+.ruff_cache/
+
+# =========================
+# Jupyter / notebooks
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs / runtime outputs (project-specific)
+# =========================
+logs/
+*.log
+*.jsonl
+
+# User data (auto-generated)
+users.json
+progress_*.json
+stats_*.json
+
+# (Nếu bạn có export report tạo ra file mới)
+*_report*.txt
+*_report*.md
+*_report*.csv
+
+# =========================
+# Model artifacts (usually large)
+# =========================
+models/*.h5
+models/*.keras
+models/*.tflite
+models/saved_model/
+models/**/saved_model/
+*.pb
+*.pbtxt
+
+# TensorFlow / Keras caches
+**/keras_tuner/
+**/logs/
+**/tensorboard/
+
+# =========================
+# Media / temp
+# =========================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.webm
+
+# =========================
+# Windows shortcuts / temp
+# =========================
+*.lnk
+*.tmp
+*.temp
+
+# =========================
+# Local configs (optional)
+# =========================
+config.local.json
+.env
+.env.*
